@@ -27,8 +27,7 @@
   <a href="https://www.linkedin.com/in/valdiralves3000" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
   
- <img href="https://github.com/va/va/blob/output/snake.svg" alt="Snake animation" />  
-
+  ![Snake animation](https://github.com/valdir-alves3000/valdir-alves3000/blob/output/github-contribution-grid-snake.svg)
  
 
  
