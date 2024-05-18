@@ -1,6 +1,6 @@
-<img align="center" style="margin-bottom:100px" width=100% src="./header.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="./img/header.png" />
 
-<p align="center">Sou um desenvolvedor full stack júnior ❤️ por enfrentar grandes desafios tecnológicos. <br><br> Minha experiência abrange desde o desenvolvimento de backends utilizando NestJS e Express até a criação de interfaces de usuário no frontend com ReactTS e NextJs. Tenho paixão por explorar novas tecnologias e aplicá-las na criação de soluções de alta qualidade. Atualmente, estou focado no desenvolvimento web como um desenvolvedor full stack júnior, <strong>pronto para contribuir e aprender cada vez mais neste emocionante campo da tecnologia.</strong></p>
+<p align="center">Sou um desenvolvedor full stack ❤️ por enfrentar grandes desafios tecnológicos. <br><br> Minha experiência abrange desde o desenvolvimento de backends utilizando NestJS e Express até a criação de interfaces de usuário no frontend com ReactTS e NextJs. Tenho paixão por explorar novas tecnologias e aplicá-las na criação de soluções de alta qualidade. Atualmente, estou focado no desenvolvimento web como um desenvolvedor full stack júnior, <strong>pronto para contribuir e aprender cada vez mais neste emocionante campo da tecnologia.</strong></p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=valdir-alves3000&theme=radical&mode=weekly" />
@@ -21,7 +21,7 @@
 ![NodeJs](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
 #### Studying in this moment:
 
@@ -46,3 +46,5 @@
 </div>&nbsp;&nbsp;
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+![snake gif](https://github.com/valdir-alves3000/valdir-alves3000/blob/output/github-contribution-grid-snake.gif)
