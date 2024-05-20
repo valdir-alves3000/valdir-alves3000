@@ -3,8 +3,8 @@
 <p align="center">Sou um desenvolvedor full stack ❤️ por enfrentar grandes desafios tecnológicos. <br><br> Minha experiência abrange desde o desenvolvimento de backends utilizando NestJS e Express até a criação de interfaces de usuário no frontend com ReactTS e NextJs. Tenho paixão por explorar novas tecnologias e aplicá-las na criação de soluções de alta qualidade. Atualmente, estou focado no desenvolvimento web como um desenvolvedor full stack júnior, <strong>pronto para contribuir e aprender cada vez mais neste emocionante campo da tecnologia.</strong></p>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=valdir-alves3000&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=valdir-alves3000&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=valdir-alves3000&show_icons=true&theme=radical" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdir-alves3000&show_icons=true&theme=radical&layout=compact" />
  </div>
  &nbsp;
  &nbsp;
